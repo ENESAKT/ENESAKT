@@ -1,7 +1,7 @@
 # Merhaba, Ben Enes Aktaş! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Bilgisayar+Muhendisi;Backend+Gelistiricisi;Full-Stack+Yazilimci;Flutter+Uzmani" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Gelistirici;Mobil+Gelistirici;Bilgisayar+Muhendisi" alt="Typing SVG" />
 </p>
 
 Ben bir **Bilgisayar Mühendisi** ve **Full-Stack Yazılım Geliştiricisiyim**. Özellikle **Node.js (Express.js)** ile yüksek performanslı, ölçeklenebilir backend sistemleri mimarisi ve **Flutter** ile mobil uygulamalar tasarlama konusunda 4 yıllık aktif bir yazılım geliştirme deneyimine sahibim.
@@ -23,6 +23,8 @@ Temiz kod yazımı (Clean Architecture), performans optimizasyonu ve gerçek zam
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 📱 Mobil
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
@@ -32,7 +34,10 @@ Temiz kod yazımı (Clean Architecture), performans optimizasyonu ve gerçek zam
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
 
