@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Bilgisayar+Muhendisi;Backend+Gelistiricisi;Full-Stack+Yazilimci;Flutter+Uzmani" alt="Typing SVG" />
 </p>
 
-Ben bir **Bilgisayar Mühendisi** ve **Full-Stack Yazılım Geliştiricisiyim**. Özellikle **Node.js (Express.js)** ile yüksek performanslı, ölçeklenebilir backend sistemleri mimarisi ve **Flutter** ile mobil uygulamalar tasarlama konusunda 4 yıllıkaktif bir yazılım geliştirme deneyimine sahibim.
+Ben bir **Bilgisayar Mühendisi** ve **Full-Stack Yazılım Geliştiricisiyim**. Özellikle **Node.js (Express.js)** ile yüksek performanslı, ölçeklenebilir backend sistemleri mimarisi ve **Flutter** ile mobil uygulamalar tasarlama konusunda 4 yıllık aktif bir yazılım geliştirme deneyimine sahibim.
 
 Temiz kod yazımı (Clean Architecture), performans optimizasyonu ve gerçek zamanlı sistemler geliştirerek kullanıcı odaklı, sürdürülebilir ürünler inşa etmeyi odağımda tutuyorum.
 
@@ -36,21 +36,14 @@ Temiz kod yazımı (Clean Architecture), performans optimizasyonu ve gerçek zam
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ENESAKT&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Enes Aktaş GitHub İstatistikleri" height="192px"/>
-</div>
-
----
-
 ## 📫 Bana Ulaşın
 
 <p align="left">
 <a href="mailto:enesaktas.ce@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/enesaktas.ce@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <!-- the shields.io badge text uses the text before the hyphen, e.g. enesaktas.ce@gmail.com, keeping it lowercased for the label -->
+  <img src="https://img.shields.io/badge/enesaktas.ce@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/enes-aktas-97672b359/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
