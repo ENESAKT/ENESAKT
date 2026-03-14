@@ -1,10 +1,10 @@
 # Merhaba, Ben Enes Aktaş! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Gelistirici;Mobil+Gelistirici;Bilgisayar+Muhendisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Gelistirici;Mobil+Gelistirici;Backend+Gelistirici;Bilgisayar+Muhendisi" alt="Typing SVG" />
 </p>
 
-Ben bir **Bilgisayar Mühendisi** ve **Full-Stack Yazılım Geliştiricisiyim**. Özellikle **Node.js (Express.js)** ile yüksek performanslı, ölçeklenebilir backend sistemleri mimarisi ve **Flutter** ile mobil uygulamalar tasarlama konusunda 4 yıllık aktif bir yazılım geliştirme deneyimine sahibim.
+Ben bir **Bilgisayar Mühendisi** ve **Full-Stack Yazılım Geliştiricisiyim**. Özellikle **Node.js (Express.js)** ile yüksek performanslı, ölçeklenebilir backend sistemleri mimarisi ve **Flutter** ile mobil uygulamalar tasarlama konusunda aktif bir yazılım geliştirme deneyimine sahibim.
 
 Temiz kod yazımı (Clean Architecture), performans optimizasyonu ve gerçek zamanlı sistemler geliştirerek kullanıcı odaklı, sürdürülebilir ürünler inşa etmeyi odağımda tutuyorum.
 
